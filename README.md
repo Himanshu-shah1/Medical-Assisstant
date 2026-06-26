@@ -1,4 +1,4 @@
-Medical Query Generator
+Medical Query Generator :-
 A Flask web application that uses Google's GenerativeAI (Gemini) to generate medical responses based on user input. The application simulates a medical expert providing accurate advice to a patient's query.
 
 About The Project
